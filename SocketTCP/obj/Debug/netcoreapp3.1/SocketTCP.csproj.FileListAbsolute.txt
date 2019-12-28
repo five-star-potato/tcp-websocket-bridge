@@ -1,0 +1,13 @@
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.AssemblyInfoInputs.cache
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.AssemblyInfo.cs
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.exe
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.deps.json
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.runtimeconfig.json
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.runtimeconfig.dev.json
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.dll
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\SocketTCP.pdb
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.dll
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.pdb
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.csprojAssemblyReference.cache
+c:\Projects\SocketTCP\SocketTCP\bin\Debug\netcoreapp3.1\Fleck.dll
+c:\Projects\SocketTCP\SocketTCP\obj\Debug\netcoreapp3.1\SocketTCP.csproj.CopyComplete
